@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My name is Gai Min, from Shandong University.
 
 You can use the [editor on GitHub](https://github.com/gm666888/Blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
